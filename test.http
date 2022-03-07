@@ -1,0 +1,4 @@
+GET http://localhost:3000/districts/200/details/
+
+###
+GET http://localhost:3000/states/10/stats/
